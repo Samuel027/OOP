@@ -20,4 +20,4 @@ The parent-class is a class which gives a method or methods to a python child-cl
 
 ## Child-class
 
-Inheritance enables new objects to take on the properties of existing objects. In this example `Laptop` and `Desktop` child-classes inherit properties from the parent-class computer
+Inheritance enables new objects to take on the properties of existing objects. In this example `Laptop` and `Desktop` child-classes inherit properties from the parent-class `Computer`
