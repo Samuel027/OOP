@@ -14,8 +14,6 @@ Encapsulation is a concept that binds together the data and functions that manip
 
 Inheritance enables new objects to take on the properties of existing objects. In this case `laptop` and `desktop` childclasses inherit properties from the parentclass `Computer`
 
-# Other OOP concepts
-
 ## Parent-class
 
 The parent-class is a class which gives a method or methods to a python child-class. In this example, `Computer`
